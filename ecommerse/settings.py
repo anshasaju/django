@@ -25,7 +25,7 @@ SECRET_KEY = '!joym@=5q#r(q2zgac1q2j74hrqmzk79l%u(qe_23zx&^-*p1*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ansha-django-app.herokuapp.com']
 
 
 # Application definition
