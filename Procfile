@@ -1,1 +1,1 @@
-web: gunicorn ecommerse.wsgi --log-file 
+web: gunicorn ecommerse.wsgi --log-file -
